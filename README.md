@@ -82,3 +82,12 @@ github. In this tutorial you will learn:
 
   4. Fill in the commit message, then click on commit changes.  
     ![](./assets/grouped-commit-confirm.png)
+
+## Creating a Pull Request
+
+  1. ![](./assets/pullrequest-go-back.png)
+  2. ![](./assets/pullrequest-open.png)
+  3. ![](./assets/pullrequest-title.png)
+  4. ![](./assets/pullrequest-merge.png)
+  5. ![](./assets/pullrequest-merge-commit.png)
+  6. ![](./assets/pullrequest-done.png)
