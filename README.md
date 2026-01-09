@@ -66,3 +66,19 @@ github. In this tutorial you will learn:
 
  4. Add a commit message. Make sure it has a meaningful message. Then click on the commit changes button to confirm.
    ![](./assets/individual-commit.png)
+
+### Modifying a File
+
+ 1. Click on the grouped directory on the left side. Then based on your attendance number, choose which group you
+    are in. For example if your attendance number is 25, click on the 21-25.txt.  
+    ![](./assets/grouped-goto-files.png)
+
+  2. After that click on the pencil icon on top of the file viewer.  
+    ![](./assets/grouped-edit.png)
+
+  3. Then put your github account's username on the line with your attendance number. In this example number 25.
+    Then click on the "Commit changes" button.  
+    ![](./assets/grouped-commit.png)
+
+  4. Fill in the commit message, then click on commit changes.  
+    ![](./assets/grouped-commit-confirm.png)
